@@ -2,7 +2,7 @@
 
 
 
-Optimizing Subsidy Delivery using Feature Selection;	Jul-Aug, 2024;
+Optimizing Subsidy Delivery using Feature Selection;
 
 
 ◦	Optimized subsidy delivery model by identifying key features using univariate & bivariate analysis.
